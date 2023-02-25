@@ -1,6 +1,6 @@
 # ABOUT
 
-**Match App** project. [DEMO] (https://match-by-ar2r.netlify.app/).
+**Match App** project. [DEMO](https://match-by-ar2r.netlify.app/).
 
 ## Details:
 
