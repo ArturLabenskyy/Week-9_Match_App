@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&family=Tilt+Neon&display=swap');
+
+#root {
+    height: 100vh;
+    background-color: #03001C;
+    font-family: 'Tilt Neon', cursive;
+    color: #B6EADA;
+    
+}
+
+.main {
+    height: 100%;
+}
+
+a {
+    margin: auto;
+    color: #B6EADA;
+    text-decoration: none;
+    background-color: #03001C;
+    font-size: 2rem;
+    border-radius: 5px;
+    
+}
+
+a:hover {
+    background-color: #5B8FB9;
+    color: #03001C;
+}
+
+button {
+    font-family: 'Tilt Neon', cursive;
+    margin: auto;
+    color: #03001C;
+    background: none;
+    background-color: #B6EADA;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #5B8FB9;
+    color: #B6EADA;
+    cursor: pointer;
+}
+
+
