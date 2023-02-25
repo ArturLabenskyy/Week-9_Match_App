@@ -23,7 +23,7 @@ const Home = () => {
                     <br />
                     <br />
                 </p>
-                <h2>Let's check Your knowledge of our solar system!!!!!!</h2>
+                <h2>Let's check Your knowledge about our solar system!!!!!!</h2>
                 <Link to="/game">START</Link>
             </div>
         </Wrapped>
